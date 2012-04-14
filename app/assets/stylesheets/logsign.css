@@ -1,0 +1,190 @@
+
+body
+{
+  z-index:-100;
+  height: auto;
+  width: 100%;
+  margin-left:0;
+  margin-right:0;
+  overflow: auto;
+//  background-image: url(images/background5.jpg);
+  background-repeat: no-repeat;
+}
+
+.head
+{
+  height: 150;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+  background: #324fB0;#54d; #333399;
+  box-shadow: 2px 2px 2px #888;
+}
+
+.logocontainer{
+  margin-top: 35px;
+  margin-left: 6%; 
+  position: relative;
+  float: left;
+  height: auto; 
+  width: auto;
+}
+
+.logincontainer{
+  font-size:15px;
+  font-weight: 700;
+  z-index: 2;
+  margin-top: 20px;
+  margin-right: 4%;
+  position: relative;
+  float: right;
+  border: 1px solid white; 
+  height: 100px; 
+  width: 620px; 
+  background-color: #327FB0;
+}
+
+.logo
+{
+  position:absolute;
+  margin-top: 49%;
+  left: 34px; 
+  height: 65px;
+}
+
+.logindata
+{
+  color: #FFF;
+  margin: 2%; 
+}
+
+.loginbutton
+{
+  height: 30px;
+  width: 120px; 
+  font-size: 15px;
+  font-weight: 700;
+  margin: 2.5%; 
+  float: right;
+}
+
+.allcontent
+{
+  top: 160px;
+  left: 0px;
+  position:absolute;
+  height: 500px;
+  width:96%;1090px;
+  margin-left:2%;
+  margin-right:2%;
+  border: 1px solid blue;
+  overflow: auto;
+}
+
+
+.signupchoicebox{
+  position:relative;
+  margin-left: 35%;
+  margin-right: 35%; 
+  margin-top: 5%; 
+  width: 450px; 
+  height: 150px; 
+  border: 1px solid blue; 
+  background-color: #fff;
+  opacity: 0.7;
+}
+
+.facbg
+{
+  
+}
+
+.signupdatafac{
+  position:relative;
+  overflow:hidden;
+  margin-left: 50%;
+//  margin-right: 35%; 
+  margin-top: 30px; 
+  width: 450px; 
+  height: 425px; 
+  border: 1px solid blue; 
+  background-color: #fff;
+  opacity: 0.7;
+}
+
+.stubg
+{
+  
+}
+
+.signupdatastu{
+  position:relative;
+  float:right;
+  overflow:hidden;
+//  margin-left: 35%;
+  margin-right: 50%; 
+  margin-top: 30px; 
+  width: 450px; 
+  height: 425px; 
+  border: 1px solid blue; 
+  background-color: #fff;
+  opacity: 0.7;
+}
+
+.heading
+{
+  position: relative;
+  border: 1px solid blue; 
+  margin: 4%; 
+  padding: 2%; 
+  width: 80%; 
+  font-size: 30px; 
+  opacity: 1;
+}
+
+.signupbutton
+{
+  font-size:15px;
+  height: 40px;
+  width: 160px; 
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 5%;
+}
+
+.signupfield
+{
+  margin:2px;
+  margin-left:20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:700;
+  font-size:16px;
+}
+
+.signuptextdata
+{
+  margin-left: 15px;
+  height: 25px;
+  font-size: 20px;
+}
+
+.bottomcontent
+{
+  top: 670px;
+  font-weight: bold;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:small;
+  text-align:center;
+  padding-top:15px;
+  height: 30px;
+  width:95%; 1090px;
+  position:relative;
+  background:#CCFFFF;
+  margin-left:2.5%;
+  margin-right:2.5%;
+  opacity:0.8;
+  filter:alpha(opacity=40);
+}
+
